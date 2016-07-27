@@ -39211,13 +39211,16 @@ a.link-gray, a.link-gray:visited{
     color: #666 !important;
 }
 .icon-ImgApps{
-    margin-top: 30px;
+    margin-top: 50px;
+    min-width: 250px;
 }
 #appStreaming .ContentHeader-title{
     font-size: 40px;
 }
 #appStreaming .ContentHeader-intro{
     font-size: 20px;
+    margin-top: 20px;
+    margin-bottom: 40px;
 }
 #appStreaming .ContentSectionIntro-paragraph{
     font-size: 17px;
